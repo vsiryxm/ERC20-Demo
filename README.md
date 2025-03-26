@@ -1,13 +1,14 @@
-# ERC20代币演示项目
+# ERC20代币演示
 
-本项目旨在以新手教学为目的，展示如何从零开始实现ERC20代币以及如何使用标准库快速创建功能完整的代币。
+本项目旨在以solidity新手教学为目的，展示如何从零开始实现ERC20代币以及如何使用标准库快速创建功能完整的代币。
 
 这是一个基于Foundry开发的ERC20代币演示项目，包含两种实现方式：
 
 1. **原生实现 (MyNativeERC20.sol)**: 不依赖任何外部库的ERC20代币实现
 2. **OpenZeppelin实现 (OpenZeppelinERC20.sol)**: 使用OpenZeppelin库实现的ERC20代币
 
-如有疑问，请在微信上联系我：xinmin-yang，加好友时记得备注：ERC20 Demo
+如有疑问，请在微信上联系我：`xinmin-yang`，加好友时记得备注：`ERC20 Demo`
+![微信号](./docs/wechat.jpg) ![星明技术栈](./docs/xinmin-notes.jpg)
 
 
 ## 环境准备
